@@ -1,3 +1,5 @@
+Ссылка на репозиторий, в котором выполнялось задание: https://github.com/Averanc3/qa_hw
+
 1. На локальном репозитории сделать ветки для:
 - Postman - git branch Postman
 - Jmeter - git branch Jmeter
