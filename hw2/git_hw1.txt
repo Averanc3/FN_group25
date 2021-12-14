@@ -1,4 +1,4 @@
-JSON
+JSON - https://github.com/Averanc3/JSON
  4. Создать внешний репозиторий c названием JSON.
 - https://github.com/Averanc3/JSON/commit/20bc3df2d05f12248dbdcae3cc48e21c625fccb7
 
@@ -65,7 +65,7 @@ JSON
 - git fetch,
   git pull
 
-XML
+XML - https://github.com/Averanc3/XML
  21. Создать внешний репозиторий c названием XML.
 - https://github.com/Averanc3/XML/commit/0792d295b5d1b0c67c7985a81ac0e60097d25295
 
@@ -137,7 +137,7 @@ XML
 - git fetch,
   git pull
 
-TXT
+TXT - https://github.com/Averanc3/TXT
  1. Создать внешний репозиторий c названием TXT. 
 - https://github.com/Averanc3/TXT/commit/086c34a5ff3c63654d98a82bd578b05e04e8885d
 
